@@ -1,0 +1,22 @@
+.LightBulb {
+  width: 200px;
+  height: 200px;
+}
+
+img {
+  width: 200px;
+}
+
+.LightBulb--ON {
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+  background-color: yellow;
+}
+
+.LightBulb--OFF {
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+  background-color: white;
+}
