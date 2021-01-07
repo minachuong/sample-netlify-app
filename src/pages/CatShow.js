@@ -1,4 +1,4 @@
-import { Component, Fragment } from 'react'
+import React, { Component, Fragment } from 'react'
 import Header from '../components/CatTinderApp/Header'
 import Footer from '../components/CatTinderApp/Footer'
 

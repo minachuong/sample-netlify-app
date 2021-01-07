@@ -1,4 +1,4 @@
-import { Component } from 'react'
+import React, { Component } from 'react'
 import './App.css';
 // import LightBulbApp from './components/LightBulbApp/LightBulbApp'
 // import InputsEventsApp from './components/InputsEventsApp/InputsEventsApp'
